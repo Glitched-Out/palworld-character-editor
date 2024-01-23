@@ -9,7 +9,7 @@ or anything else. It just changes the appearance!
 
 ## How to use
 
-1. Locate the `.sav` file of the player that you want to change its appearance.
+### 1. Locate the `.sav` file of the player that you want to change its appearance.
 
 In order to do that, you can go to the screen where you can select the world (if it is a local world), select the world that contains the character, and click in the folder icon (bottom left corner).
 
@@ -20,13 +20,13 @@ Copy the path of that file, we will need it later. For example: `C:\Users\user\A
 This will be the <sav_with_desired_progression>.
 
 
-2. Create a new world and create a new character with the desired appeareance.
+### 2. Create a new world and create a new character with the desired appeareance.
 
 Repeat the previous process to get the path of the character with the new appearance.
 
 This will be the <sav_with_desired_appeareance>.
 
-3. Execute the script file. It will require to have `python` installed.
+### 3. Execute the script file. It will require to have `python` installed.
 
 `python palworld_change_appearance.py <sav_with_desired_appeareance> <sav_with_desired_progression>`
 
